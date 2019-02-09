@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "demo-mdxdeck-nowv2",
+  "alias": "demo-mdxdeck-nowv2.now.sh",
+  "builds": [
+    { "src": "demo.mdx", "use": "@now/mdx-deck" }
+  ]
+}
