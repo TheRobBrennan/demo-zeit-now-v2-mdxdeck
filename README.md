@@ -3,7 +3,11 @@ This project is intended to serve as a lightweight example for creating a [mdx-d
 
 You can view a [live demo](https://demo-mdxdeck-nowv2.now.sh) at [https://demo-mdxdeck-nowv2.now.sh](https://demo-mdxdeck-nowv2.now.sh)
 
+View as an attendee...
 ![images/demo.gif](images/demo.gif)
+
+...or as the presenter:
+![images/presenter-mode-demo.png](images/presenter-mode-demo.png)
 
 This demo has been based off the original tutorial created by Zeit at [https://github.com/zeit/now-examples/tree/master/mdx-deck](https://github.com/zeit/now-examples/tree/master/mdx-deck)
 
